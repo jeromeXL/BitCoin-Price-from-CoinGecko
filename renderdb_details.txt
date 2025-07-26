@@ -1,0 +1,24 @@
+Hostname:
+dpg-d22bmfre5dus739fn5h0-a
+
+Port:
+5432
+
+Database:
+bitcoinprice_hdmm
+
+Username:
+bitcoinprice_hdmm_user
+
+Password:
+0s1bwvj1fqvAbfhLFnhrKUqaQ6BJN5bz
+
+Interal Database URL:
+postgresql://bitcoinprice_hdmm_user:0s1bwvj1fqvAbfhLFnhrKUqaQ6BJN5bz@dpg-d22bmfre5dus739fn5h0-a/bitcoinprice_hdmm
+
+External Database URL:
+postgresql://bitcoinprice_hdmm_user:0s1bwvj1fqvAbfhLFnhrKUqaQ6BJN5bz@dpg-d22bmfre5dus739fn5h0-a.singapore-postgres.render.com/bitcoinprice_hdmm
+
+PSQL Command:
+PGPASSWORD=0s1bwvj1fqvAbfhLFnhrKUqaQ6BJN5bz psql -h dpg-d22bmfre5dus739fn5h0-a.singapore-postgres.render.com -U bitcoinprice_hdmm_user bitcoinprice_hdmm
+
